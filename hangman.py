@@ -1,4 +1,4 @@
-
+######
 
 import random # 利用内部的radomint函数生成一个随机的整数。
 
